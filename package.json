@@ -1,5 +1,7 @@
 {
+  "name": "gitflow",
   "dependencies": {
     "create-react-project": "^0.0.30"
-  }
+  },
+  "package": "https://github.com/Dwlg/gitflow"
 }
